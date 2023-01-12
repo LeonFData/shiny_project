@@ -1,2 +1,2 @@
 # fwl-kyc-app
-Deploying the iris predictor web app built with R shiny on Heroku
+Deploying the predictor web app built with R shiny
